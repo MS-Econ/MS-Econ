@@ -1,5 +1,7 @@
 ## Hi there 👋
+## About me
 
+Hi, I'm Chuan at USF, a new learner on GitHub.
 <!--
 **MS-Econ/MS-Econ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
